@@ -4,7 +4,7 @@
     "destination": ""
   },
   "bot": {
-    "token": "OTQ2Njk4MjIwMjE2NjcyMjc3.YhifbA.3BAkzpGs-6_9K1_NNguJ9cRdKG8",
+    "token": "",
     "redirectURI": "http://localhost:8081/authorize",
     "clientID": "",
     "clientSecret": ""
